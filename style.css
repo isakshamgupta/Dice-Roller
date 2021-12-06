@@ -1,0 +1,30 @@
+.container
+{
+	text-align: center;
+	width:80%;
+	margin: 30px auto;
+}
+
+.dice
+{
+	display:inline-table;
+	text-align: center;
+}
+body
+{
+	background-color: #E8DAEF;
+}
+h1{
+	font-family: 'Anton', sans-serif;
+	font-size: 4rem;
+	text-shadow: 5px 0 black;
+	color:#4ECCA3;
+}
+p{
+	font-family: 'Montserrat', sans-serif;
+	color:#4ECCA3;
+}
+img
+{
+	width: 40%;
+}
